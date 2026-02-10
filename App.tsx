@@ -177,7 +177,7 @@ const App: React.FC = () => {
       <section id="catalog" className="py-24 bg-dark-800">
         <div className="container mx-auto px-4">
           <SectionTitle 
-            title="Обране" 
+            title="Топ Продажів" 
             subtitle="Бестселери" 
           />
           
@@ -237,10 +237,10 @@ const App: React.FC = () => {
           <SectionTitle title="Як замовити?" centered />
           <div className="grid md:grid-cols-4 gap-6 max-w-5xl mx-auto">
             {[
-              { num: '01', title: 'Оберіть аромат', desc: 'На сайті або в Instagram' },
+              { num: '01', title: 'Оберіть аромат', desc: 'На сторінці Instagram' },
               { num: '02', title: 'Напишіть нам', desc: 'В Direct для консультації' },
-              { num: '03', title: 'Оплата', desc: 'Зручним для вас способом' },
-              { num: '04', title: 'Доставка', desc: 'Швидко Новою Поштою' },
+              { num: '03', title: 'Оплата', desc: 'Оплата на IBAN або карту' },
+              { num: '04', title: 'Доставка', desc: 'Новою Поштою або Укрпоштою' },
             ].map((step, idx) => (
               <div key={idx} className="text-center relative">
                 <div className="text-6xl font-serif text-stone-800 font-bold mb-4">{step.num}</div>
