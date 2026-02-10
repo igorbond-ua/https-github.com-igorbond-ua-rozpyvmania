@@ -3,7 +3,7 @@ import { Menu, X, Instagram, ArrowRight, Star, ChevronDown, CheckCircle } from '
 import { INSTAGRAM_LINK, NAV_LINKS, PERFUMES, FEATURES, REVIEWS, FAQS } from './constants';
 import AIConsultant from './components/AIConsultant';
 
-// --- UI Components ---
+// ---- UI Components ----
 
 const Button: React.FC<{ 
   children: React.ReactNode; 
