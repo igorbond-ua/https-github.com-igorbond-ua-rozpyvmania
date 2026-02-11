@@ -36,7 +36,7 @@ export const PERFUMES: Perfume[] = [
     name: 'This is Not Gaba',
     description: 'Сучасний унісекс-аромат, заспокійливий та гармонічний.',
     notes: ['Лаванда', 'Османтус', 'Akigalawood'],
-    imageUrl: '/images/hormone-paris-gaba.jpg',
+    imageUrl: 'https://fimgs.net/mdimg/secundar/o.109292.jpg',
     isBestseller: true,
   },
   {
@@ -45,7 +45,7 @@ export const PERFUMES: Perfume[] = [
     name: 'Ganymede',
     description: 'Мінімалістичний, шкіряно-металічний аромат із космічною атмосферою.',
     notes: ['Мандарин', 'Безсмертник', 'Замша'],
-    imageUrl: 'https://images.unsplash.com/photo-1592945403244-b3fbafd7f539?auto=format&fit=crop&q=80&w=600&h=600',
+    imageUrl: 'https://parfumexquis.us/cdn/shop/files/GanymedeMarc-AntoineBarrois_2.jpg',
     isBestseller: true,
   },
   {
@@ -54,7 +54,7 @@ export const PERFUMES: Perfume[] = [
     name: 'Blue Talisman',
     description: 'Свіжий, фруктово-квітковий унісекс-парфум із сучасною структурою.',
     notes: ['Груша', 'Апельсиновий цвіт', 'Амброфікс'],
-    imageUrl: 'https://images.unsplash.com/photo-1615634260167-c8cdede054de?auto=format&fit=crop&q=80&w=600&h=600',
+    imageUrl: 'https://cdn.shopify.com/s/files/1/0873/6250/3001/files/w-ex-nihilo-blue-talisman-eau-de-parfum-100ml_ed138d92-810f-478d-8f39-bab8ced84136.png',
     isBestseller: true,
   },
   {
@@ -63,7 +63,7 @@ export const PERFUMES: Perfume[] = [
     name: 'Guidance',
     description: 'Ніжний та потужний водночас, з нотами груші, лісового горіха та квітів.',
     notes: ['Груша', 'Горіх', 'Сандал'],
-    imageUrl: 'https://images.unsplash.com/photo-1583445095369-9c651e7e5d34?auto=format&fit=crop&q=80&w=600&h=600',
+    imageUrl: 'https://amouage.com/cdn/shop/files/GUIDANCE_100_ML.jpg',
     isBestseller: true,
   },
   {
@@ -72,7 +72,7 @@ export const PERFUMES: Perfume[] = [
     name: 'Bois Imperial',
     description: 'Деревно-спеційний аромат із енергією зеленого лісу та пікантністю.',
     notes: ['Akigalawood', 'Vetiver', 'Перець тімур'],
-    imageUrl: 'https://images.unsplash.com/photo-1519669556878-63bd08be769b?auto=format&fit=crop&q=80&w=600&h=600',
+    imageUrl: 'https://fimgs.net/himg/o.4dcZyyhaPGU.png',
     isBestseller: true,
   },
   {
@@ -81,7 +81,7 @@ export const PERFUMES: Perfume[] = [
     name: 'Cedrus',
     description: 'Легко деревний, теплий аромат із ніжною природною чуттєвістю.',
     notes: ['Кардамон', 'Ветивер', 'Дерево'],
-    imageUrl: 'https://images.unsplash.com/photo-1605652599661-0083212762a1?auto=format&fit=crop&q=80&w=600&h=600',
+    imageUrl: 'https://fimgs.net/mdimg/perfume/o.57246.jpg',
     isBestseller: true,
   },
 ];
