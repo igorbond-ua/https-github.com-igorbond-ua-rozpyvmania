@@ -36,7 +36,7 @@ export const PERFUMES: Perfume[] = [
     name: 'This is Not Gaba',
     description: 'Сучасний унісекс-аромат, заспокійливий та гармонічний.',
     notes: ['Лаванда', 'Османтус', 'Akigalawood'],
-    imageUrl: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?auto=format&fit=crop&q=80&w=600&h=600',
+    imageUrl: '/images/hormone-paris-gaba.jpg',
     isBestseller: true,
   },
   {
